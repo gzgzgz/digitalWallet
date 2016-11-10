@@ -1,10 +1,11 @@
 #!/bin/bash -f
 cd src
-compile.sh
+make
 mv run.x ..
+cp *.in ..
 cd ..
 
-~/digitalWallet/run.x < ~/digitalWallet/para1.in
-~/digitalWallet/run.x < ~/digitalWallet/para2.in
-~/digitalWallet/run.x < ~/digitalWallet/para3.in
+./run.x < ./para1.in
+./run.x < ./para2.in
+./run.x < ./para3.in
 
