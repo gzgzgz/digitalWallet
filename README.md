@@ -1,7 +1,4 @@
 # digitalWallet
-Insight Data Engineering Code Challenge Submission
-
-# digitalWallet
 ##Insight Data Engineering Code Challenge Submission
 
 - Author: <b>Zhi Guo</b> 
